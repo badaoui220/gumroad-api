@@ -1,10 +1,10 @@
 {
-    "name": "gumroad-api",
-    "version": "0.4.0",
+    "name": "@badaoui220/gumroad-api",
+    "version": "0.5.0",
     "main": "lib/index.js",
     "author": "Samy Pessé <samypesse@gmail.com>",
     "description": "Client for the Gumroad API.",
-    "bugs": "https://github.com/SamyPesse/gumroad-api/issues",
+    "bugs": "https://github.com/badaoui220/gumroad-api/issues",
     "engines": {
         "node": ">=0.6"
     },
